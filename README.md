@@ -27,6 +27,7 @@ Here is a list of Advanced-DSA you can contribute to or add a new one , part of 
 | Name/DSA                                                                       | Category/Topic               | Reference         | Comments |
 | --------------------------------------------------------------------------------------- | ---------------------- | -------------- | ----------- |
 | [Template for Point]()            |   Geometry              | [link](https://cp-algorithms.com/) | good template          |
+| [Template for Graham-Sen Algorithm]()            |   Geometry-Convex Hull              | [link](https://cp-algorithms.com/) | good template          |
 | Add new DSA to participate | | | |
 
 ## 🗣️Propose Your DSA in the Hacktoberfest List
