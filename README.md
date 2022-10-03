@@ -29,6 +29,9 @@ Here is a list of Advanced-DSA you can contribute to or add a new one , part of 
 | [Template for Point]()            |   Geometry              | [link](https://cp-algorithms.com/) | good template          |
 | [Template for Graham-Sen Algorithm]()            |   Geometry-Convex Hull              | [link](https://cp-algorithms.com/) | good template          |
 | [Template for Detecting Cycle in Graph (Undirected)](https://www.tutorialspoint.com/Detect-Cycle-in-a-an-Undirected-Graph#:~:text=To%20detect%20if%20there%20is,Then%20one%20cycle%20is%20detected.)            |   Graphs              | [link](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/) | good template          |
+| [Template for Prims Algorithm]()            |   Graph                   | [link](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/) | good template          |
+
+
 | Add new DSA to participate | | | |
 
 ## 🗣️Propose Your DSA in the Hacktoberfest List
