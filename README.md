@@ -34,6 +34,7 @@ Here is a list of Advanced-DSA you can contribute to or add a new one , part of 
 | [Template for TSP](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)            |   Graphs              | [link](https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/) | good template          |
 | [Template for Autocomplete (Trie)](https://www.geeksforgeeks.org/auto-complete-feature-using-trie/)            |   Trees              | [link](https://iq.opengenus.org/autocomplete-using-trie-data-structure/) | good template          | 
 | [Template for Kruskals Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)            |   Graphs              | [link](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/) | good template          | 
+| [Template for Kahns Alogorithm]()            |   Graph              | [link](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/) | good template          |
 | Add new DSA to participate | | | |
 
 ## 🗣️Propose Your DSA in the Hacktoberfest List
