@@ -35,6 +35,7 @@ Here is a list of Advanced-DSA you can contribute to or add a new one , part of 
 | [Template for Autocomplete (Trie)](https://www.geeksforgeeks.org/auto-complete-feature-using-trie/)            |   Trees              | [link](https://iq.opengenus.org/autocomplete-using-trie-data-structure/) | good template          | 
 | [Template for Kruskals Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)            |   Graphs              | [link](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/) | good template          | 
 | [Template for Kahns Alogorithm]()            |   Graph              | [link](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/) | good template          |
+| [Template for Karger's Algorithm](https://www.geeksforgeeks.org/kargers-algorithm-for-minimum-cut-set-1-introduction-and-implementation/)|   Graphs              | [link](https://www.geeksforgeeks.org/kargers-algorithm-for-minimum-cut-set-1-introduction-and-implementation/) | good template          | 
 | Add new DSA to participate | | | |
 
 ## 🗣️Propose Your DSA in the Hacktoberfest List
